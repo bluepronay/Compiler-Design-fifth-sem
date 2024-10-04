@@ -1,0 +1,6 @@
+write a lex program to identify the following 
+1. Valid Mobile No
+2. Valid identifier
+3. Valid Date
+4. Valid Time
+5. Valid URL
